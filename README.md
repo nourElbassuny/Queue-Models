@@ -38,6 +38,6 @@ You can choose your type of service by writing on the console after that you sho
 ###### 4- Wq: Expected waiting time in the queue.
 
 <img src="https://github.com/nourElbassuny/Queue-Models/assets/146573118/749a7770-d1ef-4ce9-b44a-90c7501bcf73">
-<img src="https://github.com/nourElbassuny/Queue-Models/assets/146573118/da0d0699-0804-44b7-a965-2d160c9512a1" width=850>
+<img src="https://github.com/nourElbassuny/Queue-Models/assets/146573118/da0d0699-0804-44b7-a965-2d160c9512a1" width=800>
 
 
