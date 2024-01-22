@@ -24,6 +24,10 @@ Queue types and service types describe how the queue chooses which items to proc
 
 ## Description
 <h4>There are four types of service </h4>
-<h5>1- M/M/1 means that Poisson Arrivals, exponentially distributed service times, one-only servers, and infinite capacity buffer.</h5>
-<h5>2- M/M/C means that Poisson Arrivals, exponentially distributed service times, c identical servers, and infinite capacity buffer.</h5>
-<h5>3- M/M/1/K</h5>means that Poisson Arrivals, exponentially distributed service times, c identical servers, and finite capacity buffer with size k.</h5> 
+<h5>1- M/M/1   means that Poisson Arrivals, exponentially distributed service times, one-only servers, and infinite capacity buffer.</h5>
+<h5>2- M/M/C   means that Poisson Arrivals, exponentially distributed service times, c identical servers, and infinite capacity buffer.</h5>
+<h5>3- M/M/1/K means that Poisson Arrivals, exponentially distributed service times, one-only servers, and finite capacity buffer with size k.</h5> 
+<h5>4- M/M/C/K means that Poisson Arrivals, exponentially distributed service times, c identical servers, and finite capacity buffer with size k.</h5>
+
+You can choose your type of service by writing on the console after that you should insert data such as arrival rate , service rate , and the number of simulations and if you choose M/M/C you should insert the number of servers and capacity if you choose any one of M/M/1/k or M/M/C/K.
+
