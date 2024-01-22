@@ -31,9 +31,13 @@ Queue types and service types describe how the queue chooses which items to proc
 
 You can choose your type of service by writing on the console after that you should insert data such as arrival rate, service rate, and the number of simulations and if you choose M/M/C you should insert the number of servers and capacity if you choose any one of M/M/1/k or M/M/C/K.
 
-##### After choosing your system and insert requiring data the program will show you a simulation diagram about how the system works, Expected number of customers in the system,
-Expected number of customers in the queue, Expected waiting time in the system, and Expected waiting time in the queue.
+##### After choosing your system and insert requiring data the program will show you a simulation diagram about how the system works, 
+###### 1- L:  Expected number of customers in the system.
+###### 2- Lq: Expected number of customers in the queue.
+###### 3- W:  Expected waiting time in the system.
+###### 4- Wq: Expected waiting time in the queue.
 
 <img src="https://github.com/nourElbassuny/Queue-Models/assets/146573118/749a7770-d1ef-4ce9-b44a-90c7501bcf73">
+<img src="https://github.com/nourElbassuny/Queue-Models/assets/146573118/da0d0699-0804-44b7-a965-2d160c9512a1">
 
 
