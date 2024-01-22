@@ -4,7 +4,7 @@ We use queueing theory in our software development to analyze and optimize our p
 ## Contents
 <h4>1- Introduction</h4>
 <h4>2- Queue types and service types</h4>
-<h4>3- How does the project work?</h4>
+<h4>3- Description the project</h4>
 
 ## Introduction
 We use queueing theory in our projects for many purposes:
@@ -22,4 +22,8 @@ Queue types and service types describe how the queue chooses which items to proc
 <h5>5- Longest Job First (LJF): serve the customer who needs the largest amount of service.</h5>
 <h6>6- Time Sharing: serve everyone at the same time; service capacity is distributed evenly among everyone waiting.</h6>
 
-
+## Description
+<h4>There are four types of service </h4>
+<h5>1- M/M/1 means that Poisson Arrivals, exponentially distributed service times, one-only servers, and infinite capacity buffer.</h5>
+<h5>2- M/M/C means that Poisson Arrivals, exponentially distributed service times, c identical servers, and infinite capacity buffer.</h5>
+<h5>3- M/M/1/K</h5>means that Poisson Arrivals, exponentially distributed service times, c identical servers, and finite capacity buffer with size k.</h5> 
